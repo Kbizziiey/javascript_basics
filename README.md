@@ -37,3 +37,12 @@ This exercise demonstrates basic repetition logic using a standard `for` loop. T
 ### Concepts Covered
 * Loop initialization, condition checking, and final expressions.
 * Sequential number tracking and terminal logging.
+
+
+## Exercise 5: Functions (Summation Tool)
+This exercise demonstrates code reusability using functions. The script defines a `sum` function that accepts two parameters, calculates their total, and returns the result to a variable for console logging.
+
+### Concepts Covered
+* Function declaration and parameter handling.
+* The `return` statement keyword.
+* Capturing function outputs into variable scopes.
