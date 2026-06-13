@@ -31,3 +31,9 @@ This exercise demonstrates control flow using `if`, `else if`, and `else` statem
 * Conditional branching logic.
 * Comparison operators (`>`, `<`).
 
+##  Exercise 4: Iteration (For Loop Counter)
+This exercise demonstrates basic repetition logic using a standard `for` loop. The script initializes a counter at 1, checks if it is less than or equal to 10, increments it by 1 on each iteration, and logs the current count to the terminal.
+
+### Concepts Covered
+* Loop initialization, condition checking, and final expressions.
+* Sequential number tracking and terminal logging.
