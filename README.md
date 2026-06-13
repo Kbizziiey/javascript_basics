@@ -22,3 +22,12 @@ Uses interactive popup dialogs.
 * **How to Run:** 
   1. Open the `index.html` file in any modern web browser (or use VS Code Live Server).
   2. Follow the on-screen pop-up prompt windows.
+
+
+##  Exercise 3: Conditional Logic (Number Sign Checker)
+This exercise demonstrates control flow using `if`, `else if`, and `else` statements. The script evaluates a variable `number` and logs whether it is positive, negative, or zero.
+
+### Concepts Covered
+* Conditional branching logic.
+* Comparison operators (`>`, `<`).
+
