@@ -1,21 +1,18 @@
-name = "Karabo Makganyoga"
-isStudent = true
-adress = {city: "jozi", country: "South Africa"}
-hobbies = ["soccer", "Hiking"]
-undefinedVariable = undefined
-nullVariable = null
+let name = "Karabo Makganyoga";
+let isStudent = true;
+let adress = {city: "jozi", country: "South Africa"};
+let hobbies = ["soccer", "coding"];
+let undefinedVariable = undefined;
+let nullVariable = null;
 
-console.log(name)
-console.log(typeof(name))
+console.log(name, "Type: ", typeof name);
 
-console.log(adress)
-console.log(typeof(adress))
+console.log(adress, "Type:", typeof adress);
 
-console.log(hobbies)
-console.log(typeof(hobbies))
+console.log(hobbies, "Type: ", typeof hobbies);
 
-console.log(undefinedVariable)
-console.log(typeof(undefinedVariable))
 
-console.log(nullVariable)
-console.log(typeof(nullVariable))
+console.log(undefinedVariable, "Type: ", typeof undefinedVariable)
+
+
+console.log(nullVariable, "Type: ", typeof nullVariable)
