@@ -5,7 +5,6 @@ let hobbies = ["soccer", "coding"];
 let undefinedVariable = undefined;
 let nullVariable = null;
 
-
 console.log(name, "Type: ", typeof name);
 
 console.log(adress, "Type:", typeof adress);
